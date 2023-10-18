@@ -18,4 +18,6 @@ You will need the following Python libraries installed:
 You can install these libraries using `pip`:
 
 ```bash
-pip install pyttsx3 SpeechRecognition wikipedia
+pip install pyttsx3
+pip install SpeechRecognition
+pip install wikipedia
