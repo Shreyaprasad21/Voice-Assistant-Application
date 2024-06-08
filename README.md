@@ -15,7 +15,7 @@ You will need the following Python libraries installed:
 - [wikipedia](https://pypi.org/project/wikipedia/): For searching Wikipedia.
 - [webbrowser](https://docs.python.org/3/library/webbrowser.html): For web browsing functionality.
 
-You can install these libraries using `pip`:
+
 
 ```bash
 pip install pyttsx3
