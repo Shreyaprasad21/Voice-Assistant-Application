@@ -13,7 +13,7 @@ You will need the following Python libraries installed:
 - [pyttsx3](https://pypi.org/project/pyttsx3/): For text-to-speech capabilities.
 - [speech_recognition](https://pypi.org/project/SpeechRecognition/): For voice recognition.
 - [wikipedia](https://pypi.org/project/wikipedia/): For searching Wikipedia.
-- [webbrowser](https://docs.python.org/3/library/webbrowser.html): For web browsing functionality.
+
 
 
 
