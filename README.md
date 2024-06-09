@@ -10,8 +10,7 @@ These instructions will help you set up and run Sophia on your local machine. So
 
 You will need the following Python libraries installed:
 
-- [pyttsx3](https://pypi.org/project/pyttsx3/): For text-to-speech capabilities.
-- [speech_recognition](https://pypi.org/project/SpeechRecognition/): For voice recognition.
+
 -
 
 
