@@ -2,7 +2,7 @@
 
 A Python-based voice assistant that utilizes speech recognition and text-to-speech functionalities. This assistant greets users based on the time of day, answers questions using Wikipedia, opens specific websites like YouTube or Google, and provides the current time. This project showcases a basic but functional voice assistant.
 
-## Features
+## Features                     
 
 - **Greeting Users**: Greets the user based on the time of day (morning, afternoon, evening).
 - **Answering Questions**: Uses Wikipedia to answer user questions.
