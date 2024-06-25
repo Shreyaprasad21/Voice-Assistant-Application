@@ -8,7 +8,7 @@ A Python-based voice assistant that utilizes speech recognition and text-to-spee
 - **Answering Questions**: Uses Wikipedia to answer user questions.
 - **Opening Websites**: Opens specific websites like YouTube or Google.                                              
 - **Current Time**: Provides the current time.                                         
-                                       
+                                             
 ## Requirements
 
 - Python 3.x
