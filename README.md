@@ -40,7 +40,7 @@ This is a Python-based voice assistant application that can perform a variety of
 
 1. **Run the application**:
    ```bash
-    Voice_Assistant.ipynb
+    voicee.ipynb
 
  2. **Interact with the assistant**:
 
