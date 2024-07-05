@@ -1,39 +1,61 @@
-# VirtuaL AI Voice Assistant
+# Voice Assistant Application
 
-A Python-based voice assistant that utilizes speech recognition and text-to-speech functionalities. This assistant greets users based on the time of day, answers questions using Wikipedia, opens specific websites like YouTube or Google, and provides the current time. This project showcases a basic but functional voice assistant.
+This is a Python-based voice assistant application that can perform a variety of tasks, such as searching Wikipedia, opening websites, and providing the current time. The app utilizes several libraries to achieve these functionalities, including `pyttsx3` for text-to-speech, `speech_recognition` for converting speech to text, and `wikipedia` for fetching data from Wikipedia.
 
-## Features                     
+## Features
 
-- **Greeting Users**: Greets the user based on the time of day (morning, afternoon, evening).
-- **Answering Questions**: Uses Wikipedia to answer user questions.
-- **Opening Websites**: Opens specific websites like YouTube or Google.                                              
-- **Current Time**: Provides the current time.                                         
-                                             
-## Requirements
+- Greets the user based on the time of day
+- Converts speech to text and executes commands
+- Searches Wikipedia and reads a summary
+- Opens popular websites like Instagram, YouTube, Google, Kaggle, and more
+- Provides the current time
+- Opens Anaconda Navigator
 
-- Python 3.x
-- `speech_recognition` library
-- `pyttsx3` library
-- `wikipedia` library
-- `webbrowser` library
-- `datetime` library              
+## Libraries Used
+
+- `pyttsx3`: Text to speech conversion
+- `datetime`: To get the current time
+- `speech_recognition`: To recognize and convert speech to text
+- `wikipedia`: To fetch summaries from Wikipedia
+- `os`: To open local files
+- `webbrowser`: To open websites
 
 ## Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/voice-assistant.git
-    cd voice-assistant
-    ```
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/himankgupta1/Voice-Assistant-Application.git
 
-2. Install the required libraries:
-    ```sh
-    pip install speechrecognition pyttsx3 wikipedia
-    ```
+ 2. **Install the required libraries**:
+     ```bash
+    pip install pyttsx3
+    pip install SpeechRecognition
+    pip install wikipedia
+
+ 3. **Ensure you have the following additional dependencies**:
+     ```bash
+     pip install pyaudio
 
 ## Usage
 
-Run the voice assistant script:
-```sh
-python voice_assistant.py
+1. **Run the application**:
+   ```bash
+    Voice_Assistant.ipynb
 
+ 2. **Interact with the assistant**:
+
+  - Upon starting, the assistant will greet you based on the time of day.
+  - You can give voice commands such as:
+    ```bash
+    Search Wikipedia
+    Open YouTube
+    What is the Time
+    Open Anaconda
+  - The assistant will respond to your commands by performing the requested actions.
+
+## Contributing
+- Fork the repository.
+- Create your feature branch (git checkout -b feature/fooBar).
+- Commit your changes (git commit -am 'Add some fooBar').
+- Push to the branch (git push origin feature/fooBar).
+- Create a new Pull Request.
