@@ -1,4 +1,4 @@
-# Voice Assistant Application
+# Voice Assistant Application            
 
 This is a Python-based voice assistant application that can perform a variety of tasks, such as searching Wikipedia, opening websites, and providing the current time. The app utilizes several libraries to achieve these functionalities, including `pyttsx3` for text-to-speech, `speech_recognition` for converting speech to text, and `wikipedia` for fetching data from Wikipedia.
 
