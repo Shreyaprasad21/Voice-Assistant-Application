@@ -5,7 +5,7 @@ This is a Python-based voice assistant application that can perform a variety of
 ## Features
 
 - Greets the user based on the time of day
-- Converts speech to text and executes commands
+- Converts speech to text and executes commands         
 - Searches Wikipedia and reads a summary
 - Opens popular websites like Instagram, YouTube, Google, Kaggle, and more
 - Provides the current time
