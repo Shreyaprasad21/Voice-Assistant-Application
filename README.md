@@ -9,7 +9,7 @@ This is a Python-based voice assistant application that can perform a variety of
 - Searches Wikipedia and reads a summary
 - Opens popular websites like Instagram, YouTube, Google, Kaggle, and more
 - Provides the current time
-- Opens Anaconda Navigator
+- Opens Anaconda Navigator            
 
 ## Libraries Used
 
