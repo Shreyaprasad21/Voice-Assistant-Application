@@ -17,7 +17,7 @@ This is a Python-based voice assistant application that can perform a variety of
 - `datetime`: To get the current time
 - `speech_recognition`: To recognize and convert speech to text
 - `wikipedia`: To fetch summaries from Wikipedia
-- `os`: To open local files
+- `os`: To open local files    
 - `webbrowser`: To open websites
 
 ## Installation
